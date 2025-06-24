@@ -2,19 +2,19 @@
   {
     "type": "Email",
     "icon": "fas fa-envelope",
-    "url": "mailto:i@ruom.top",
+    "url": "admin@liouzhou.dpdns.org",
     "hoverColor": "#e78b0a"
   },
   {
     "type": "Github",
     "icon": "fab fa-github",
-    "url": "https://github.com/JLinmr",
+    "url": "https://github.com/poiuiop4",
     "hoverColor": "#6500fc"
   },
   {
-    "type": "支付宝",
+    "type": "QQ",
     "icon": "fab fa-alipay",
-    "qrCode": "https://lib.bsgun.cn/Hexo-static/img/zfbzf.avif",
+    "qrCode": "",
     "hoverColor": "#007aff"
   },
   {
