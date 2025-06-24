@@ -4,7 +4,7 @@
 
 ### Demo
 
-- [预览](https://bsgun.cn)
+- [预览](https://liouzhou.dpdns.org)
 
 ### 修改
 
