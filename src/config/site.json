@@ -1,7 +1,7 @@
 [
   {
     "name": "博客",
-    "url": "https://blog.bsgun.cn",
+    "url": "https://blog.liouzhou.dpdns.org",
     "icon": "fa fa-blog"
   },
   {
@@ -15,13 +15,13 @@
     "icon": "fa fa-image"
   },
   {
-    "name": "封面",
-    "url": "https://cover.ruom.top",
+    "name": "openlist",
+    "url": "https://alist.liouzhou.dpdns.org",
     "icon": "fa fa-panorama"
   },
   {
-    "name": "监测",
-    "url": "https://status.bsgun.cn",
+    "name": "url缩短",
+    "url": "https://url.liouzhou.dpdns.org",
     "icon": "fa fa-chart-line"
   },
   {
