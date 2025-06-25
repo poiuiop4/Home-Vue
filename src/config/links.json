@@ -10,17 +10,5 @@
     "icon": "fab fa-github",
     "url": "https://github.com/poiuiop4",
     "hoverColor": "#6500fc"
-  },
-  {
-    "type": "QQ",
-    "icon": "fab fa-alipay",
-    "qrCode": "",
-    "hoverColor": "#007aff"
-  },
-  {
-    "type": "微信",
-    "icon": "fab fa-weixin",
-    "qrCode": "https://lib.bsgun.cn/Hexo-static/img/wxzf.avif",
-    "hoverColor": "#247700"
   }
 ]
