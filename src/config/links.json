@@ -2,7 +2,7 @@
   {
     "type": "Email",
     "icon": "fas fa-envelope",
-    "url": "admin:i@liouzhou.dpdns.org",
+    "url": "mailto:i@liouzhou.dpdns.org",
     "hoverColor": "#e78b0a"
   },
   {
